@@ -1,0 +1,147 @@
+{
+  "version": "0.2.23",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "target",
+      "text": "蛋",
+      "points": [
+        [
+          213.0,
+          18.0
+        ],
+        [
+          277.0,
+          84.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "text": "丁",
+      "points": [
+        [
+          247.0,
+          122.0
+        ],
+        [
+          312.0,
+          189.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "text": "布",
+      "points": [
+        [
+          236.0,
+          201.0
+        ],
+        [
+          301.0,
+          268.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "text": "糕",
+      "points": [
+        [
+          100.0,
+          244.0
+        ],
+        [
+          165.0,
+          309.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "糕",
+      "points": [
+        [
+          81.0,
+          350.0
+        ],
+        [
+          111.0,
+          379.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "蛋",
+      "points": [
+        [
+          56.0,
+          350.0
+        ],
+        [
+          87.0,
+          383.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "丁",
+      "points": [
+        [
+          27.0,
+          349.0
+        ],
+        [
+          51.0,
+          377.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "布",
+      "points": [
+        [
+          0.0,
+          349.0
+        ],
+        [
+          26.0,
+          378.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "img_3318.jpg",
+  "imageData": null,
+  "imageHeight": 384,
+  "imageWidth": 344,
+  "text": ""
+}

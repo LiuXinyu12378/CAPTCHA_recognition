@@ -1,0 +1,113 @@
+{
+  "version": "0.2.23",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "target",
+      "text": "豆",
+      "points": [
+        [
+          58.0,
+          82.0
+        ],
+        [
+          124.0,
+          146.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "text": "花",
+      "points": [
+        [
+          136.0,
+          139.0
+        ],
+        [
+          203.0,
+          205.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "text": "面",
+      "points": [
+        [
+          64.0,
+          231.0
+        ],
+        [
+          126.0,
+          294.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "豆",
+      "points": [
+        [
+          2.0,
+          351.0
+        ],
+        [
+          33.0,
+          381.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "花",
+      "points": [
+        [
+          27.0,
+          350.0
+        ],
+        [
+          58.0,
+          381.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "面",
+      "points": [
+        [
+          53.0,
+          350.0
+        ],
+        [
+          79.0,
+          375.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "img_3446.jpg",
+  "imageData": null,
+  "imageHeight": 384,
+  "imageWidth": 344,
+  "text": ""
+}

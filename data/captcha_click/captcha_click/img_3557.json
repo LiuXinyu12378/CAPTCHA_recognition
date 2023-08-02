@@ -1,0 +1,113 @@
+{
+  "version": "0.2.23",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "target",
+      "text": "芋",
+      "points": [
+        [
+          44.0,
+          84.0
+        ],
+        [
+          109.0,
+          148.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "text": "福",
+      "points": [
+        [
+          38.0,
+          212.0
+        ],
+        [
+          102.0,
+          274.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "text": "鼎",
+      "points": [
+        [
+          115.0,
+          250.0
+        ],
+        [
+          180.0,
+          314.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "芋",
+      "points": [
+        [
+          54.0,
+          350.0
+        ],
+        [
+          81.0,
+          376.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "鼎",
+      "points": [
+        [
+          29.0,
+          350.0
+        ],
+        [
+          54.0,
+          378.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "福",
+      "points": [
+        [
+          2.0,
+          350.0
+        ],
+        [
+          32.0,
+          382.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "img_3557.jpg",
+  "imageData": null,
+  "imageHeight": 384,
+  "imageWidth": 344,
+  "text": ""
+}

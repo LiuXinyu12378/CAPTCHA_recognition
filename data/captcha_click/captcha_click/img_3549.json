@@ -1,0 +1,147 @@
+{
+  "version": "0.2.23",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "target",
+      "text": "冷",
+      "points": [
+        [
+          70.0,
+          10.0
+        ],
+        [
+          136.0,
+          74.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "text": "冻",
+      "points": [
+        [
+          222.0,
+          28.0
+        ],
+        [
+          287.0,
+          93.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "text": "牛",
+      "points": [
+        [
+          225.0,
+          107.0
+        ],
+        [
+          290.0,
+          173.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "text": "舌",
+      "points": [
+        [
+          152.0,
+          183.0
+        ],
+        [
+          214.0,
+          246.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "舌",
+      "points": [
+        [
+          82.0,
+          351.0
+        ],
+        [
+          106.0,
+          375.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "牛",
+      "points": [
+        [
+          57.0,
+          350.0
+        ],
+        [
+          80.0,
+          374.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "冻",
+      "points": [
+        [
+          28.0,
+          351.0
+        ],
+        [
+          56.0,
+          381.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "冷",
+      "points": [
+        [
+          1.0,
+          351.0
+        ],
+        [
+          29.0,
+          379.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "img_3549.jpg",
+  "imageData": null,
+  "imageHeight": 384,
+  "imageWidth": 344,
+  "text": ""
+}

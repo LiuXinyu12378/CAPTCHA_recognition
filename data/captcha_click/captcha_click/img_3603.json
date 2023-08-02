@@ -1,0 +1,147 @@
+{
+  "version": "0.2.23",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "target",
+      "text": "豆",
+      "points": [
+        [
+          73.0,
+          17.0
+        ],
+        [
+          137.0,
+          82.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "text": "白",
+      "points": [
+        [
+          42.0,
+          114.0
+        ],
+        [
+          106.0,
+          179.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "text": "油",
+      "points": [
+        [
+          134.0,
+          113.0
+        ],
+        [
+          198.0,
+          179.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "text": "腐",
+      "points": [
+        [
+          219.0,
+          220.0
+        ],
+        [
+          285.0,
+          283.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "腐",
+      "points": [
+        [
+          84.0,
+          351.0
+        ],
+        [
+          112.0,
+          383.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "豆",
+      "points": [
+        [
+          55.0,
+          351.0
+        ],
+        [
+          86.0,
+          381.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "油",
+      "points": [
+        [
+          27.0,
+          350.0
+        ],
+        [
+          53.0,
+          376.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "白",
+      "points": [
+        [
+          1.0,
+          349.0
+        ],
+        [
+          27.0,
+          375.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "img_3603.jpg",
+  "imageData": null,
+  "imageHeight": 384,
+  "imageWidth": 344,
+  "text": ""
+}

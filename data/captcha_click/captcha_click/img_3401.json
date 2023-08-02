@@ -1,0 +1,113 @@
+{
+  "version": "0.2.23",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "target",
+      "text": "鸠",
+      "points": [
+        [
+          58.0,
+          88.0
+        ],
+        [
+          123.0,
+          153.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "text": "斑",
+      "points": [
+        [
+          244.0,
+          173.0
+        ],
+        [
+          309.0,
+          237.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "text": "卤",
+      "points": [
+        [
+          233.0,
+          260.0
+        ],
+        [
+          298.0,
+          324.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "卤",
+      "points": [
+        [
+          1.0,
+          349.0
+        ],
+        [
+          23.0,
+          378.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "斑",
+      "points": [
+        [
+          28.0,
+          349.0
+        ],
+        [
+          58.0,
+          381.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "鸠",
+      "points": [
+        [
+          55.0,
+          350.0
+        ],
+        [
+          84.0,
+          380.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "img_3401.jpg",
+  "imageData": null,
+  "imageHeight": 384,
+  "imageWidth": 344,
+  "text": ""
+}

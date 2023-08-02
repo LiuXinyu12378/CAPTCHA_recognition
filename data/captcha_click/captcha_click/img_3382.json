@@ -1,0 +1,113 @@
+{
+  "version": "0.2.23",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "target",
+      "text": "烧",
+      "points": [
+        [
+          97.0,
+          56.0
+        ],
+        [
+          162.0,
+          121.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "text": "锣",
+      "points": [
+        [
+          160.0,
+          174.0
+        ],
+        [
+          226.0,
+          239.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "text": "铜",
+      "points": [
+        [
+          63.0,
+          232.0
+        ],
+        [
+          127.0,
+          296.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "烧",
+      "points": [
+        [
+          54.0,
+          350.0
+        ],
+        [
+          87.0,
+          383.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "锣",
+      "points": [
+        [
+          28.0,
+          349.0
+        ],
+        [
+          58.0,
+          377.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "铜",
+      "points": [
+        [
+          0.0,
+          349.0
+        ],
+        [
+          27.0,
+          378.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "img_3382.jpg",
+  "imageData": null,
+  "imageHeight": 384,
+  "imageWidth": 344,
+  "text": ""
+}

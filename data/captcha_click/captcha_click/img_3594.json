@@ -1,0 +1,147 @@
+{
+  "version": "0.2.23",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "target",
+      "text": "破",
+      "points": [
+        [
+          14.0,
+          150.0
+        ],
+        [
+          78.0,
+          214.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "text": "缸",
+      "points": [
+        [
+          212.0,
+          66.0
+        ],
+        [
+          277.0,
+          130.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "text": "酥",
+      "points": [
+        [
+          145.0,
+          165.0
+        ],
+        [
+          209.0,
+          229.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "text": "炉",
+      "points": [
+        [
+          93.0,
+          250.0
+        ],
+        [
+          156.0,
+          316.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "炉",
+      "points": [
+        [
+          83.0,
+          347.0
+        ],
+        [
+          108.0,
+          377.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "缸",
+      "points": [
+        [
+          56.0,
+          349.0
+        ],
+        [
+          84.0,
+          380.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "酥",
+      "points": [
+        [
+          28.0,
+          349.0
+        ],
+        [
+          56.0,
+          376.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "破",
+      "points": [
+        [
+          1.0,
+          351.0
+        ],
+        [
+          31.0,
+          383.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "img_3594.jpg",
+  "imageData": null,
+  "imageHeight": 384,
+  "imageWidth": 344,
+  "text": ""
+}

@@ -1,0 +1,147 @@
+{
+  "version": "0.2.23",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "target",
+      "text": "粉",
+      "points": [
+        [
+          16.0,
+          77.0
+        ],
+        [
+          79.0,
+          139.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "text": "珠",
+      "points": [
+        [
+          138.0,
+          122.0
+        ],
+        [
+          201.0,
+          186.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "text": "珍",
+      "points": [
+        [
+          205.0,
+          128.0
+        ],
+        [
+          270.0,
+          195.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "text": "耙",
+      "points": [
+        [
+          89.0,
+          249.0
+        ],
+        [
+          154.0,
+          313.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "耙",
+      "points": [
+        [
+          83.0,
+          350.0
+        ],
+        [
+          113.0,
+          381.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "粉",
+      "points": [
+        [
+          57.0,
+          350.0
+        ],
+        [
+          85.0,
+          380.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "珠",
+      "points": [
+        [
+          28.0,
+          350.0
+        ],
+        [
+          58.0,
+          378.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "珍",
+      "points": [
+        [
+          1.0,
+          350.0
+        ],
+        [
+          29.0,
+          380.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "img_3706.jpg",
+  "imageData": null,
+  "imageHeight": 384,
+  "imageWidth": 344,
+  "text": ""
+}

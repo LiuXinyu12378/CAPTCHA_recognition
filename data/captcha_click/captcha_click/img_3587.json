@@ -1,0 +1,147 @@
+{
+  "version": "0.2.23",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "target",
+      "text": "蕉",
+      "points": [
+        [
+          72.0,
+          87.0
+        ],
+        [
+          137.0,
+          151.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "text": "锅",
+      "points": [
+        [
+          242.0,
+          34.0
+        ],
+        [
+          307.0,
+          99.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "text": "炸",
+      "points": [
+        [
+          69.0,
+          230.0
+        ],
+        [
+          133.0,
+          295.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "text": "香",
+      "points": [
+        [
+          252.0,
+          188.0
+        ],
+        [
+          315.0,
+          253.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "炸",
+      "points": [
+        [
+          83.0,
+          350.0
+        ],
+        [
+          114.0,
+          378.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "锅",
+      "points": [
+        [
+          55.0,
+          350.0
+        ],
+        [
+          86.0,
+          379.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "蕉",
+      "points": [
+        [
+          27.0,
+          349.0
+        ],
+        [
+          55.0,
+          379.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "香",
+      "points": [
+        [
+          2.0,
+          348.0
+        ],
+        [
+          28.0,
+          375.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "img_3587.jpg",
+  "imageData": null,
+  "imageHeight": 384,
+  "imageWidth": 344,
+  "text": ""
+}

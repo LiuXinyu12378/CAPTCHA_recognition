@@ -1,0 +1,147 @@
+{
+  "version": "0.2.23",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "target",
+      "text": "过",
+      "points": [
+        [
+          156.0,
+          76.0
+        ],
+        [
+          222.0,
+          141.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "text": "手",
+      "points": [
+        [
+          16.0,
+          100.0
+        ],
+        [
+          79.0,
+          165.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "text": "抄",
+      "points": [
+        [
+          129.0,
+          157.0
+        ],
+        [
+          195.0,
+          223.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "text": "桥",
+      "points": [
+        [
+          252.0,
+          54.0
+        ],
+        [
+          315.0,
+          117.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "手",
+      "points": [
+        [
+          82.0,
+          351.0
+        ],
+        [
+          109.0,
+          380.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "抄",
+      "points": [
+        [
+          55.0,
+          350.0
+        ],
+        [
+          82.0,
+          378.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "桥",
+      "points": [
+        [
+          28.0,
+          349.0
+        ],
+        [
+          57.0,
+          381.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "过",
+      "points": [
+        [
+          1.0,
+          349.0
+        ],
+        [
+          34.0,
+          381.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "img_3456.jpg",
+  "imageData": null,
+  "imageHeight": 384,
+  "imageWidth": 344,
+  "text": ""
+}

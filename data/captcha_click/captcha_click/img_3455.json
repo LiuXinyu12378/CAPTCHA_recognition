@@ -1,0 +1,147 @@
+{
+  "version": "0.2.23",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "target",
+      "text": "蟹",
+      "points": [
+        [
+          205.0,
+          147.0
+        ],
+        [
+          268.0,
+          209.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "text": "溪",
+      "points": [
+        [
+          195.0,
+          8.0
+        ],
+        [
+          259.0,
+          73.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "text": "屯",
+      "points": [
+        [
+          18.0,
+          195.0
+        ],
+        [
+          83.0,
+          259.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "text": "醉",
+      "points": [
+        [
+          203.0,
+          243.0
+        ],
+        [
+          269.0,
+          306.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "蟹",
+      "points": [
+        [
+          82.0,
+          350.0
+        ],
+        [
+          114.0,
+          383.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "醉",
+      "points": [
+        [
+          54.0,
+          350.0
+        ],
+        [
+          84.0,
+          381.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "溪",
+      "points": [
+        [
+          28.0,
+          349.0
+        ],
+        [
+          58.0,
+          379.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "屯",
+      "points": [
+        [
+          1.0,
+          350.0
+        ],
+        [
+          30.0,
+          377.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "img_3455.jpg",
+  "imageData": null,
+  "imageHeight": 384,
+  "imageWidth": 344,
+  "text": ""
+}

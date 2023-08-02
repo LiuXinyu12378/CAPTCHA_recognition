@@ -1,0 +1,147 @@
+{
+  "version": "0.2.23",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "target",
+      "text": "炝",
+      "points": [
+        [
+          209.0,
+          38.0
+        ],
+        [
+          273.0,
+          104.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "text": "黄",
+      "points": [
+        [
+          112.0,
+          105.0
+        ],
+        [
+          176.0,
+          168.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "text": "条",
+      "points": [
+        [
+          17.0,
+          167.0
+        ],
+        [
+          81.0,
+          231.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "text": "瓜",
+      "points": [
+        [
+          134.0,
+          182.0
+        ],
+        [
+          199.0,
+          246.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "条",
+      "points": [
+        [
+          81.0,
+          350.0
+        ],
+        [
+          107.0,
+          380.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "瓜",
+      "points": [
+        [
+          55.0,
+          350.0
+        ],
+        [
+          82.0,
+          377.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "黄",
+      "points": [
+        [
+          27.0,
+          348.0
+        ],
+        [
+          55.0,
+          376.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "炝",
+      "points": [
+        [
+          0.0,
+          349.0
+        ],
+        [
+          32.0,
+          383.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "img_3271.jpg",
+  "imageData": null,
+  "imageHeight": 384,
+  "imageWidth": 344,
+  "text": ""
+}

@@ -1,0 +1,147 @@
+{
+  "version": "0.2.23",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "target",
+      "text": "酒",
+      "points": [
+        [
+          136.0,
+          35.0
+        ],
+        [
+          201.0,
+          99.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "text": "珠",
+      "points": [
+        [
+          42.0,
+          72.0
+        ],
+        [
+          107.0,
+          137.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "text": "江",
+      "points": [
+        [
+          153.0,
+          154.0
+        ],
+        [
+          219.0,
+          219.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "text": "啤",
+      "points": [
+        [
+          58.0,
+          211.0
+        ],
+        [
+          122.0,
+          275.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "酒",
+      "points": [
+        [
+          81.0,
+          351.0
+        ],
+        [
+          112.0,
+          380.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "啤",
+      "points": [
+        [
+          55.0,
+          350.0
+        ],
+        [
+          79.0,
+          377.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "江",
+      "points": [
+        [
+          30.0,
+          351.0
+        ],
+        [
+          56.0,
+          383.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "珠",
+      "points": [
+        [
+          0.0,
+          349.0
+        ],
+        [
+          30.0,
+          376.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "img_3385.jpg",
+  "imageData": null,
+  "imageHeight": 384,
+  "imageWidth": 344,
+  "text": ""
+}

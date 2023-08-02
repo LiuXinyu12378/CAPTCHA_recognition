@@ -1,0 +1,147 @@
+{
+  "version": "0.2.23",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "target",
+      "text": "肉",
+      "points": [
+        [
+          108.0,
+          30.0
+        ],
+        [
+          172.0,
+          92.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "text": "瓜",
+      "points": [
+        [
+          172.0,
+          123.0
+        ],
+        [
+          237.0,
+          188.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "text": "酿",
+      "points": [
+        [
+          230.0,
+          217.0
+        ],
+        [
+          292.0,
+          281.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "text": "苦",
+      "points": [
+        [
+          37.0,
+          77.0
+        ],
+        [
+          100.0,
+          140.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "肉",
+      "points": [
+        [
+          83.0,
+          351.0
+        ],
+        [
+          112.0,
+          378.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "酿",
+      "points": [
+        [
+          54.0,
+          350.0
+        ],
+        [
+          87.0,
+          383.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "瓜",
+      "points": [
+        [
+          27.0,
+          350.0
+        ],
+        [
+          55.0,
+          378.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "苦",
+      "points": [
+        [
+          0.0,
+          348.0
+        ],
+        [
+          27.0,
+          378.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "img_3387.jpg",
+  "imageData": null,
+  "imageHeight": 384,
+  "imageWidth": 344,
+  "text": ""
+}

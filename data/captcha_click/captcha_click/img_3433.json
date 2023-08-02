@@ -1,0 +1,147 @@
+{
+  "version": "0.2.23",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "target",
+      "text": "豆",
+      "points": [
+        [
+          196.0,
+          33.0
+        ],
+        [
+          261.0,
+          96.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "text": "锅",
+      "points": [
+        [
+          144.0,
+          151.0
+        ],
+        [
+          206.0,
+          215.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "text": "花",
+      "points": [
+        [
+          220.0,
+          195.0
+        ],
+        [
+          286.0,
+          260.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "text": "火",
+      "points": [
+        [
+          25.0,
+          244.0
+        ],
+        [
+          91.0,
+          310.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "豆",
+      "points": [
+        [
+          1.0,
+          349.0
+        ],
+        [
+          29.0,
+          378.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "花",
+      "points": [
+        [
+          29.0,
+          349.0
+        ],
+        [
+          59.0,
+          380.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "火",
+      "points": [
+        [
+          55.0,
+          349.0
+        ],
+        [
+          82.0,
+          377.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "锅",
+      "points": [
+        [
+          80.0,
+          350.0
+        ],
+        [
+          109.0,
+          377.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "img_3433.jpg",
+  "imageData": null,
+  "imageHeight": 384,
+  "imageWidth": 344,
+  "text": ""
+}

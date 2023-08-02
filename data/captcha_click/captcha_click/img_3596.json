@@ -1,0 +1,147 @@
+{
+  "version": "0.2.23",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "target",
+      "text": "锭",
+      "points": [
+        [
+          188.0,
+          74.0
+        ],
+        [
+          253.0,
+          139.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "text": "红",
+      "points": [
+        [
+          17.0,
+          159.0
+        ],
+        [
+          78.0,
+          224.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "text": "果",
+      "points": [
+        [
+          82.0,
+          222.0
+        ],
+        [
+          145.0,
+          287.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "text": "蓝",
+      "points": [
+        [
+          216.0,
+          259.0
+        ],
+        [
+          280.0,
+          323.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "红",
+      "points": [
+        [
+          81.0,
+          350.0
+        ],
+        [
+          108.0,
+          374.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "果",
+      "points": [
+        [
+          55.0,
+          351.0
+        ],
+        [
+          86.0,
+          381.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "锭",
+      "points": [
+        [
+          28.0,
+          350.0
+        ],
+        [
+          59.0,
+          380.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "蓝",
+      "points": [
+        [
+          2.0,
+          349.0
+        ],
+        [
+          32.0,
+          378.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "img_3596.jpg",
+  "imageData": null,
+  "imageHeight": 384,
+  "imageWidth": 344,
+  "text": ""
+}

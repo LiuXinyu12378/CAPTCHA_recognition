@@ -1,0 +1,147 @@
+{
+  "version": "0.2.23",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "target",
+      "text": "刀",
+      "points": [
+        [
+          124.0,
+          9.0
+        ],
+        [
+          189.0,
+          74.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "text": "切",
+      "points": [
+        [
+          29.0,
+          100.0
+        ],
+        [
+          93.0,
+          164.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "text": "食",
+      "points": [
+        [
+          121.0,
+          148.0
+        ],
+        [
+          183.0,
+          212.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "text": "茶",
+      "points": [
+        [
+          256.0,
+          160.0
+        ],
+        [
+          319.0,
+          222.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "切",
+      "points": [
+        [
+          81.0,
+          351.0
+        ],
+        [
+          106.0,
+          378.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "刀",
+      "points": [
+        [
+          55.0,
+          350.0
+        ],
+        [
+          82.0,
+          376.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "食",
+      "points": [
+        [
+          28.0,
+          351.0
+        ],
+        [
+          57.0,
+          377.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "茶",
+      "points": [
+        [
+          2.0,
+          350.0
+        ],
+        [
+          32.0,
+          379.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "img_3616.jpg",
+  "imageData": null,
+  "imageHeight": 384,
+  "imageWidth": 344,
+  "text": ""
+}

@@ -1,0 +1,147 @@
+{
+  "version": "0.2.23",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "target",
+      "text": "笋",
+      "points": [
+        [
+          118.0,
+          48.0
+        ],
+        [
+          180.0,
+          111.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "text": "卷",
+      "points": [
+        [
+          202.0,
+          115.0
+        ],
+        [
+          264.0,
+          180.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "text": "芦",
+      "points": [
+        [
+          12.0,
+          130.0
+        ],
+        [
+          76.0,
+          193.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "text": "手",
+      "points": [
+        [
+          25.0,
+          227.0
+        ],
+        [
+          89.0,
+          289.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "卷",
+      "points": [
+        [
+          82.0,
+          351.0
+        ],
+        [
+          108.0,
+          376.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "手",
+      "points": [
+        [
+          54.0,
+          349.0
+        ],
+        [
+          79.0,
+          375.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "笋",
+      "points": [
+        [
+          28.0,
+          350.0
+        ],
+        [
+          53.0,
+          380.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "芦",
+      "points": [
+        [
+          1.0,
+          350.0
+        ],
+        [
+          25.0,
+          381.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "img_3384.jpg",
+  "imageData": null,
+  "imageHeight": 384,
+  "imageWidth": 344,
+  "text": ""
+}

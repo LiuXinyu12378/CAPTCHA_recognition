@@ -1,0 +1,147 @@
+{
+  "version": "0.2.23",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "target",
+      "text": "蘑",
+      "points": [
+        [
+          189.0,
+          62.0
+        ],
+        [
+          254.0,
+          126.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "text": "菇",
+      "points": [
+        [
+          77.0,
+          129.0
+        ],
+        [
+          141.0,
+          191.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "text": "司",
+      "points": [
+        [
+          144.0,
+          144.0
+        ],
+        [
+          207.0,
+          207.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "text": "沙",
+      "points": [
+        [
+          130.0,
+          226.0
+        ],
+        [
+          195.0,
+          290.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "司",
+      "points": [
+        [
+          84.0,
+          351.0
+        ],
+        [
+          110.0,
+          378.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "沙",
+      "points": [
+        [
+          55.0,
+          349.0
+        ],
+        [
+          81.0,
+          378.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "菇",
+      "points": [
+        [
+          28.0,
+          351.0
+        ],
+        [
+          57.0,
+          383.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "蘑",
+      "points": [
+        [
+          0.0,
+          349.0
+        ],
+        [
+          33.0,
+          381.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "img_3647.jpg",
+  "imageData": null,
+  "imageHeight": 384,
+  "imageWidth": 344,
+  "text": ""
+}

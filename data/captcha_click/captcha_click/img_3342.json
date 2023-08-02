@@ -1,0 +1,147 @@
+{
+  "version": "0.2.23",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "target",
+      "text": "炒",
+      "points": [
+        [
+          103.0,
+          6.0
+        ],
+        [
+          167.0,
+          70.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "text": "椒",
+      "points": [
+        [
+          167.0,
+          92.0
+        ],
+        [
+          230.0,
+          157.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "text": "葱",
+      "points": [
+        [
+          249.0,
+          212.0
+        ],
+        [
+          315.0,
+          277.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "text": "鸡",
+      "points": [
+        [
+          128.0,
+          210.0
+        ],
+        [
+          193.0,
+          274.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "鸡",
+      "points": [
+        [
+          85.0,
+          350.0
+        ],
+        [
+          114.0,
+          379.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "椒",
+      "points": [
+        [
+          55.0,
+          349.0
+        ],
+        [
+          84.0,
+          380.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "葱",
+      "points": [
+        [
+          28.0,
+          348.0
+        ],
+        [
+          59.0,
+          379.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "炒",
+      "points": [
+        [
+          0.0,
+          348.0
+        ],
+        [
+          25.0,
+          379.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "img_3342.jpg",
+  "imageData": null,
+  "imageHeight": 384,
+  "imageWidth": 344,
+  "text": ""
+}

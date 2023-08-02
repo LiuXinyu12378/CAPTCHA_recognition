@@ -1,0 +1,147 @@
+{
+  "version": "0.2.23",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "target",
+      "text": "清",
+      "points": [
+        [
+          61.0,
+          110.0
+        ],
+        [
+          125.0,
+          174.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "text": "蒲",
+      "points": [
+        [
+          187.0,
+          80.0
+        ],
+        [
+          252.0,
+          145.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "text": "柿",
+      "points": [
+        [
+          105.0,
+          226.0
+        ],
+        [
+          167.0,
+          292.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "text": "州",
+      "points": [
+        [
+          214.0,
+          241.0
+        ],
+        [
+          276.0,
+          306.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "柿",
+      "points": [
+        [
+          83.0,
+          349.0
+        ],
+        [
+          110.0,
+          380.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "清",
+      "points": [
+        [
+          56.0,
+          348.0
+        ],
+        [
+          81.0,
+          378.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "州",
+      "points": [
+        [
+          32.0,
+          348.0
+        ],
+        [
+          60.0,
+          379.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "蒲",
+      "points": [
+        [
+          2.0,
+          348.0
+        ],
+        [
+          36.0,
+          381.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "img_3280.jpg",
+  "imageData": null,
+  "imageHeight": 384,
+  "imageWidth": 344,
+  "text": ""
+}

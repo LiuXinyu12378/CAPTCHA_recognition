@@ -1,0 +1,147 @@
+{
+  "version": "0.2.23",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "target",
+      "text": "孜",
+      "points": [
+        [
+          61.0,
+          62.0
+        ],
+        [
+          126.0,
+          127.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "text": "骨",
+      "points": [
+        [
+          241.0,
+          118.0
+        ],
+        [
+          306.0,
+          184.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "text": "然",
+      "points": [
+        [
+          77.0,
+          204.0
+        ],
+        [
+          145.0,
+          267.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "text": "排",
+      "points": [
+        [
+          166.0,
+          240.0
+        ],
+        [
+          230.0,
+          303.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "骨",
+      "points": [
+        [
+          82.0,
+          349.0
+        ],
+        [
+          105.0,
+          378.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "排",
+      "points": [
+        [
+          56.0,
+          349.0
+        ],
+        [
+          87.0,
+          381.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "然",
+      "points": [
+        [
+          29.0,
+          349.0
+        ],
+        [
+          58.0,
+          379.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "孜",
+      "points": [
+        [
+          1.0,
+          350.0
+        ],
+        [
+          33.0,
+          379.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "img_3684.jpg",
+  "imageData": null,
+  "imageHeight": 384,
+  "imageWidth": 344,
+  "text": ""
+}

@@ -1,0 +1,147 @@
+{
+  "version": "0.2.23",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "target",
+      "text": "酱",
+      "points": [
+        [
+          93.0,
+          24.0
+        ],
+        [
+          157.0,
+          86.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "text": "扬",
+      "points": [
+        [
+          51.0,
+          124.0
+        ],
+        [
+          116.0,
+          189.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "text": "菜",
+      "points": [
+        [
+          23.0,
+          203.0
+        ],
+        [
+          88.0,
+          268.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "text": "州",
+      "points": [
+        [
+          207.0,
+          184.0
+        ],
+        [
+          271.0,
+          250.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "菜",
+      "points": [
+        [
+          83.0,
+          351.0
+        ],
+        [
+          114.0,
+          381.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "酱",
+      "points": [
+        [
+          56.0,
+          351.0
+        ],
+        [
+          86.0,
+          383.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "州",
+      "points": [
+        [
+          28.0,
+          349.0
+        ],
+        [
+          54.0,
+          381.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "扬",
+      "points": [
+        [
+          1.0,
+          350.0
+        ],
+        [
+          30.0,
+          381.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "img_3547.jpg",
+  "imageData": null,
+  "imageHeight": 384,
+  "imageWidth": 344,
+  "text": ""
+}

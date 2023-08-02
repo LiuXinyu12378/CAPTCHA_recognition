@@ -1,0 +1,147 @@
+{
+  "version": "0.2.23",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "target",
+      "text": "四",
+      "points": [
+        [
+          97.0,
+          71.0
+        ],
+        [
+          157.0,
+          136.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "text": "饯",
+      "points": [
+        [
+          181.0,
+          83.0
+        ],
+        [
+          245.0,
+          148.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "text": "蜜",
+      "points": [
+        [
+          202.0,
+          168.0
+        ],
+        [
+          265.0,
+          231.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "text": "品",
+      "points": [
+        [
+          92.0,
+          163.0
+        ],
+        [
+          155.0,
+          225.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "品",
+      "points": [
+        [
+          81.0,
+          350.0
+        ],
+        [
+          105.0,
+          377.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "四",
+      "points": [
+        [
+          56.0,
+          351.0
+        ],
+        [
+          85.0,
+          381.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "饯",
+      "points": [
+        [
+          29.0,
+          350.0
+        ],
+        [
+          53.0,
+          380.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "蜜",
+      "points": [
+        [
+          1.0,
+          351.0
+        ],
+        [
+          33.0,
+          383.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "img_3420.jpg",
+  "imageData": null,
+  "imageHeight": 384,
+  "imageWidth": 344,
+  "text": ""
+}

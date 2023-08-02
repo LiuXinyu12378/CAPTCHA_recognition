@@ -1,0 +1,147 @@
+{
+  "version": "0.2.23",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "target",
+      "text": "龙",
+      "points": [
+        [
+          75.0,
+          40.0
+        ],
+        [
+          140.0,
+          103.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "text": "珠",
+      "points": [
+        [
+          149.0,
+          113.0
+        ],
+        [
+          215.0,
+          178.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "text": "吐",
+      "points": [
+        [
+          45.0,
+          141.0
+        ],
+        [
+          109.0,
+          205.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "text": "乌",
+      "points": [
+        [
+          35.0,
+          221.0
+        ],
+        [
+          101.0,
+          287.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "珠",
+      "points": [
+        [
+          81.0,
+          349.0
+        ],
+        [
+          112.0,
+          378.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "吐",
+      "points": [
+        [
+          56.0,
+          351.0
+        ],
+        [
+          79.0,
+          381.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "龙",
+      "points": [
+        [
+          27.0,
+          349.0
+        ],
+        [
+          55.0,
+          380.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "乌",
+      "points": [
+        [
+          0.0,
+          349.0
+        ],
+        [
+          24.0,
+          376.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "img_3568.jpg",
+  "imageData": null,
+  "imageHeight": 384,
+  "imageWidth": 344,
+  "text": ""
+}

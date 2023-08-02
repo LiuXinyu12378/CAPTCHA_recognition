@@ -1,0 +1,80 @@
+{
+  "version": "0.2.23",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "target",
+      "text": "饼",
+      "points": [
+        [
+          97.0,
+          115.0
+        ],
+        [
+          157.0,
+          176.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "text": "乳",
+      "points": [
+        [
+          19.0,
+          127.0
+        ],
+        [
+          82.0,
+          190.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "饼",
+      "points": [
+        [
+          27.0,
+          349.0
+        ],
+        [
+          53.0,
+          378.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "乳",
+      "points": [
+        [
+          3.0,
+          349.0
+        ],
+        [
+          30.0,
+          383.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "img_3424.jpg",
+  "imageData": null,
+  "imageHeight": 384,
+  "imageWidth": 344,
+  "text": "",
+  "image_text": "乳"
+}

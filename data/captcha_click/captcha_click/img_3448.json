@@ -1,0 +1,147 @@
+{
+  "version": "0.2.23",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "target",
+      "text": "汁",
+      "points": [
+        [
+          122.0,
+          112.0
+        ],
+        [
+          187.0,
+          176.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "text": "笋",
+      "points": [
+        [
+          229.0,
+          139.0
+        ],
+        [
+          294.0,
+          203.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "text": "甘",
+      "points": [
+        [
+          11.0,
+          135.0
+        ],
+        [
+          76.0,
+          199.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "text": "白",
+      "points": [
+        [
+          192.0,
+          250.0
+        ],
+        [
+          254.0,
+          314.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "白",
+      "points": [
+        [
+          2.0,
+          350.0
+        ],
+        [
+          24.0,
+          377.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "汁",
+      "points": [
+        [
+          29.0,
+          350.0
+        ],
+        [
+          56.0,
+          378.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "甘",
+      "points": [
+        [
+          56.0,
+          350.0
+        ],
+        [
+          82.0,
+          378.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "笋",
+      "points": [
+        [
+          81.0,
+          349.0
+        ],
+        [
+          108.0,
+          378.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "img_3448.jpg",
+  "imageData": null,
+  "imageHeight": 384,
+  "imageWidth": 344,
+  "text": ""
+}

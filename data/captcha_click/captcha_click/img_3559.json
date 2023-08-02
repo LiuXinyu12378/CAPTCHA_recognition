@@ -1,0 +1,147 @@
+{
+  "version": "0.2.23",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "target",
+      "text": "扒",
+      "points": [
+        [
+          98.0,
+          79.0
+        ],
+        [
+          163.0,
+          143.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "text": "茄",
+      "points": [
+        [
+          178.0,
+          21.0
+        ],
+        [
+          243.0,
+          85.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "text": "汁",
+      "points": [
+        [
+          116.0,
+          148.0
+        ],
+        [
+          178.0,
+          214.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "text": "牛",
+      "points": [
+        [
+          192.0,
+          215.0
+        ],
+        [
+          254.0,
+          280.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "扒",
+      "points": [
+        [
+          81.0,
+          349.0
+        ],
+        [
+          108.0,
+          380.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "牛",
+      "points": [
+        [
+          55.0,
+          348.0
+        ],
+        [
+          79.0,
+          377.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "汁",
+      "points": [
+        [
+          29.0,
+          350.0
+        ],
+        [
+          55.0,
+          377.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "茄",
+      "points": [
+        [
+          1.0,
+          349.0
+        ],
+        [
+          26.0,
+          377.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "img_3559.jpg",
+  "imageData": null,
+  "imageHeight": 384,
+  "imageWidth": 344,
+  "text": ""
+}

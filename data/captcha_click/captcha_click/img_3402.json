@@ -1,0 +1,148 @@
+{
+  "version": "0.2.23",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "target",
+      "text": "仁",
+      "points": [
+        [
+          11.0,
+          18.0
+        ],
+        [
+          77.0,
+          81.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "text": "虾",
+      "points": [
+        [
+          177.0,
+          86.0
+        ],
+        [
+          242.0,
+          151.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "text": "盐",
+      "points": [
+        [
+          220.0,
+          174.0
+        ],
+        [
+          285.0,
+          239.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "text": "椒",
+      "points": [
+        [
+          246.0,
+          241.0
+        ],
+        [
+          311.0,
+          305.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "椒",
+      "points": [
+        [
+          1.0,
+          350.0
+        ],
+        [
+          31.0,
+          379.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "盐",
+      "points": [
+        [
+          29.0,
+          350.0
+        ],
+        [
+          54.0,
+          378.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "虾",
+      "points": [
+        [
+          55.0,
+          349.0
+        ],
+        [
+          85.0,
+          380.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "仁",
+      "points": [
+        [
+          83.0,
+          349.0
+        ],
+        [
+          110.0,
+          375.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "img_3402.jpg",
+  "imageData": null,
+  "imageHeight": 384,
+  "imageWidth": 344,
+  "text": "",
+  "image_text": "仁"
+}

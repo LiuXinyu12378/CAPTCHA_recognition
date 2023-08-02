@@ -1,0 +1,147 @@
+{
+  "version": "0.2.23",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "target",
+      "text": "怪",
+      "points": [
+        [
+          104.0,
+          52.0
+        ],
+        [
+          168.0,
+          117.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "text": "仁",
+      "points": [
+        [
+          194.0,
+          99.0
+        ],
+        [
+          259.0,
+          165.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "text": "味",
+      "points": [
+        [
+          218.0,
+          211.0
+        ],
+        [
+          280.0,
+          276.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "text": "果",
+      "points": [
+        [
+          54.0,
+          251.0
+        ],
+        [
+          119.0,
+          315.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "仁",
+      "points": [
+        [
+          82.0,
+          350.0
+        ],
+        [
+          109.0,
+          376.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "果",
+      "points": [
+        [
+          53.0,
+          350.0
+        ],
+        [
+          81.0,
+          376.0
+        ]
+      ],
+      "group_id": 1,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "味",
+      "points": [
+        [
+          29.0,
+          349.0
+        ],
+        [
+          60.0,
+          379.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "怪",
+      "points": [
+        [
+          1.0,
+          349.0
+        ],
+        [
+          27.0,
+          376.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "img_3364.jpg",
+  "imageData": null,
+  "imageHeight": 384,
+  "imageWidth": 344,
+  "text": ""
+}

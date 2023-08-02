@@ -1,0 +1,114 @@
+{
+  "version": "0.2.23",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "target",
+      "text": "豆",
+      "points": [
+        [
+          163.0,
+          95.0
+        ],
+        [
+          226.0,
+          156.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "text": "苗",
+      "points": [
+        [
+          83.0,
+          93.0
+        ],
+        [
+          149.0,
+          157.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "text": "鲜",
+      "points": [
+        [
+          7.0,
+          96.0
+        ],
+        [
+          71.0,
+          161.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "鲜",
+      "points": [
+        [
+          1.0,
+          349.0
+        ],
+        [
+          28.0,
+          378.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "豆",
+      "points": [
+        [
+          27.0,
+          349.0
+        ],
+        [
+          60.0,
+          381.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "苗",
+      "points": [
+        [
+          56.0,
+          348.0
+        ],
+        [
+          82.0,
+          379.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "img_3423.jpg",
+  "imageData": null,
+  "imageHeight": 384,
+  "imageWidth": 344,
+  "text": "",
+  "image_text": "鲜"
+}

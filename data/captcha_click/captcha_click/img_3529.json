@@ -1,0 +1,147 @@
+{
+  "version": "0.2.23",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "target",
+      "text": "沙",
+      "points": [
+        [
+          123.0,
+          66.0
+        ],
+        [
+          187.0,
+          131.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "text": "茶",
+      "points": [
+        [
+          211.0,
+          99.0
+        ],
+        [
+          274.0,
+          163.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "text": "溪",
+      "points": [
+        [
+          49.0,
+          131.0
+        ],
+        [
+          111.0,
+          196.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "text": "凉",
+      "points": [
+        [
+          209.0,
+          193.0
+        ],
+        [
+          273.0,
+          258.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "茶",
+      "points": [
+        [
+          83.0,
+          348.0
+        ],
+        [
+          108.0,
+          376.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "凉",
+      "points": [
+        [
+          56.0,
+          349.0
+        ],
+        [
+          84.0,
+          383.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "溪",
+      "points": [
+        [
+          27.0,
+          348.0
+        ],
+        [
+          54.0,
+          378.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "沙",
+      "points": [
+        [
+          0.0,
+          348.0
+        ],
+        [
+          26.0,
+          377.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "img_3529.jpg",
+  "imageData": null,
+  "imageHeight": 384,
+  "imageWidth": 344,
+  "text": ""
+}

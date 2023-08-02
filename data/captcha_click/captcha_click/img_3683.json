@@ -1,0 +1,147 @@
+{
+  "version": "0.2.23",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "target",
+      "text": "苏",
+      "points": [
+        [
+          212.0,
+          59.0
+        ],
+        [
+          277.0,
+          124.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "text": "话",
+      "points": [
+        [
+          130.0,
+          153.0
+        ],
+        [
+          194.0,
+          218.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "text": "梅",
+      "points": [
+        [
+          168.0,
+          233.0
+        ],
+        [
+          230.0,
+          297.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "text": "州",
+      "points": [
+        [
+          97.0,
+          243.0
+        ],
+        [
+          163.0,
+          309.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "梅",
+      "points": [
+        [
+          81.0,
+          350.0
+        ],
+        [
+          108.0,
+          379.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "话",
+      "points": [
+        [
+          54.0,
+          350.0
+        ],
+        [
+          80.0,
+          376.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "州",
+      "points": [
+        [
+          28.0,
+          350.0
+        ],
+        [
+          57.0,
+          380.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "苏",
+      "points": [
+        [
+          0.0,
+          350.0
+        ],
+        [
+          29.0,
+          379.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "img_3683.jpg",
+  "imageData": null,
+  "imageHeight": 384,
+  "imageWidth": 344,
+  "text": ""
+}

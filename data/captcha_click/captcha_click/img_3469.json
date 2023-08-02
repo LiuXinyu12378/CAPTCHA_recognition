@@ -1,0 +1,147 @@
+{
+  "version": "0.2.23",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "target",
+      "text": "魁",
+      "points": [
+        [
+          62.0,
+          78.0
+        ],
+        [
+          126.0,
+          143.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "text": "军",
+      "points": [
+        [
+          167.0,
+          111.0
+        ],
+        [
+          233.0,
+          174.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "text": "屯",
+      "points": [
+        [
+          69.0,
+          191.0
+        ],
+        [
+          133.0,
+          255.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "text": "锅",
+      "points": [
+        [
+          173.0,
+          197.0
+        ],
+        [
+          236.0,
+          261.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "军",
+      "points": [
+        [
+          0.0,
+          350.0
+        ],
+        [
+          30.0,
+          379.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "屯",
+      "points": [
+        [
+          27.0,
+          350.0
+        ],
+        [
+          52.0,
+          380.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "锅",
+      "points": [
+        [
+          56.0,
+          350.0
+        ],
+        [
+          82.0,
+          376.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "魁",
+      "points": [
+        [
+          81.0,
+          351.0
+        ],
+        [
+          116.0,
+          382.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "img_3469.jpg",
+  "imageData": null,
+  "imageHeight": 384,
+  "imageWidth": 344,
+  "text": ""
+}

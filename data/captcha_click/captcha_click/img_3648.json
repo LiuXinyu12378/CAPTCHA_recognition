@@ -1,0 +1,147 @@
+{
+  "version": "0.2.23",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "target",
+      "text": "餐",
+      "points": [
+        [
+          19.0,
+          131.0
+        ],
+        [
+          82.0,
+          195.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "text": "薄",
+      "points": [
+        [
+          214.0,
+          75.0
+        ],
+        [
+          277.0,
+          138.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "text": "咸",
+      "points": [
+        [
+          86.0,
+          202.0
+        ],
+        [
+          152.0,
+          266.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "text": "甜",
+      "points": [
+        [
+          231.0,
+          166.0
+        ],
+        [
+          294.0,
+          230.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "餐",
+      "points": [
+        [
+          83.0,
+          350.0
+        ],
+        [
+          111.0,
+          383.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "薄",
+      "points": [
+        [
+          55.0,
+          348.0
+        ],
+        [
+          81.0,
+          375.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "甜",
+      "points": [
+        [
+          31.0,
+          350.0
+        ],
+        [
+          58.0,
+          383.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "咸",
+      "points": [
+        [
+          3.0,
+          350.0
+        ],
+        [
+          32.0,
+          381.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "img_3648.jpg",
+  "imageData": null,
+  "imageHeight": 384,
+  "imageWidth": 344,
+  "text": ""
+}

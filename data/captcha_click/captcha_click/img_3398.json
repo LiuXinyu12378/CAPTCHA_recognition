@@ -1,0 +1,114 @@
+{
+  "version": "0.2.23",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "target",
+      "text": "藕",
+      "points": [
+        [
+          75.0,
+          23.0
+        ],
+        [
+          137.0,
+          87.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "text": "片",
+      "points": [
+        [
+          117.0,
+          97.0
+        ],
+        [
+          180.0,
+          155.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "target",
+      "text": "汤",
+      "points": [
+        [
+          155.0,
+          217.0
+        ],
+        [
+          217.0,
+          282.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "汤",
+      "points": [
+        [
+          55.0,
+          350.0
+        ],
+        [
+          80.0,
+          381.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "片",
+      "points": [
+        [
+          27.0,
+          349.0
+        ],
+        [
+          50.0,
+          378.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "char",
+      "text": "藕",
+      "points": [
+        [
+          3.0,
+          348.0
+        ],
+        [
+          33.0,
+          381.0
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "img_3398.jpg",
+  "imageData": null,
+  "imageHeight": 384,
+  "imageWidth": 344,
+  "text": "",
+  "image_text": "片"
+}
